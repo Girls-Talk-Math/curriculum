@@ -1,0 +1,15 @@
+Worcester Fitchburg 27
+Worcester Marlboro 18
+Worcester Boston 47
+Worcester Springfield 52
+Worcester Northampton 66
+Fitchburg Marlboro 26
+Fitchburg Boston 58
+Fitchburg Springfield 80
+Fitchburg Northampton 57
+Marlboro Boston 32
+Marlboro Springfield 80
+Marlboro Northampton 82
+Boston Springfield 91
+Boston Northampton 104
+Springfield Northampton 19
